@@ -21,7 +21,7 @@ It includes private clouds, private networks, and decentralized coordination sys
 intermediaries between a person and their data while preserving and vastly extending the functionality people expect 
 from the internet today. We share a vision similar to DWeb, P2P Networks, and the IndieWeb.
 
-We are acutely aware of many smart people in the space building awesome projects in service of similar goals. At every 
+We are acutely aware of many smart people in the space building [awesome projects](awesome-projects.md) in service of similar goals. At every 
 opportunity we will be integrating with and contributing to these projects.
 
 - [What is Re-Public?](#what-is-re-public)

@@ -29,6 +29,10 @@ opportunity we will be integrating with and contributing to these projects.
     - [Data Sharing](#data-sharing)
   - [Re-Public SDK](#re-public-sdk)
   - [Re-Public Network and Marketplace](#re-public-network-and-marketplace)
+- [Where to find the software](#where-to-find-the-software)
+  - [re-public-os-server](https://github.com/Re-Public-DAO/re-public-os-server)
+  - [re-public-os-web](https://github.com/Re-Public-DAO/re-public-os-web)
+- [Contributing Guidelines](#contributing-guidelines)
 
 ## What is Re-Public?
 
@@ -110,4 +114,62 @@ In this way a Cloud owner's data may appear in the app of another Cloud owner af
 to that shared data is removed at any point that the sharer revokes access.
 
 
+# Where to find the software
+
+Re-Public is spread across many different repos since each one may have its own team and community.
+
+- [re-public-os-server](https://github.com/Re-Public-DAO/re-public-os-server)
+- [re-public-os-web](https://github.com/Re-Public-DAO/re-public-os-web)
+
+
+# Contributing Guidelines
+
+Thank you for considering contributing to this project! We value your time and effort and aim to make the contribution 
+process straightforward, respectful, and inclusive.
+
+## Code of Conduct
+By participating in this project, you're expected to uphold our Code of Conduct:
+
+**Empathy**: Always try to see things from the perspective of others. Understand differences, ask questions, and be 
+patient.
+
+**Civility**: Address issues and pull requests professionally. Avoid demeaning, discriminatory, or harassing behavior 
+and speech.
+
+**Kindness**: Be kind to others. Constructive criticism is welcome, but criticize ideas, not people.
+
+## Getting Started
+
+### Issues
+
+Before submitting a new issue, check to ensure the issue hasn't been already reported.
+
+Provide as much context as you can. The more details, the easier it'll be for us to understand and solve the problem.
+
+### Pull Requests
+Fork the repository and create a new branch for your feature or fix.
+
+Make sure to add tests (if applicable) and update the documentation with your changes.
+
+Write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should look like this:
+
+```csharp
+[Short summary of change]
+[Empty line]
+[Longer explanation]
+```
+
+### Commit Messages
+
+Begin the commit message with a single short sentence summarizing the change. No period at the end.
+
+Depending on the complexity, continue with a more detailed description below. Use markdown formatting when necessary.
+
+## Open Source License
+
+Remember, contributions to this repository will be licensed under its MIT License.
+
+## Need Help?
+
+If you're unsure about anything or need help with the contributing process, don't hesitate to ask. We're here to help!
 

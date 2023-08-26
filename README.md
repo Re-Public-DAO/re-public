@@ -33,6 +33,11 @@ opportunity we will be integrating with and contributing to these projects.
   - [re-public-os-server](https://github.com/Re-Public-DAO/re-public-os-server)
   - [re-public-os-web](https://github.com/Re-Public-DAO/re-public-os-web)
 - [Contributing Guidelines](#contributing-guidelines)
+  - [Code of Conduct](#code-of-conduct)
+  - [Getting Started](#getting-started)
+    - [Issues](#issues)
+    - [Pull Requests](#pull-requests)
+    - [Commit Messages](#commit-messages)
 
 ## What is Re-Public?
 

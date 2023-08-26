@@ -24,6 +24,12 @@ from the internet today. We share a vision similar to DWeb, P2P Networks, and th
 We are acutely aware of many smart people in the space building awesome projects in service of similar goals. At every 
 opportunity we will be integrating with and contributing to these projects.
 
+- [What is Re-Public?](#what-is-re-public)
+  - [Re-Public Cloud](#re-public-cloud)
+    - [Data Sharing](#data-sharing)
+  - [Re-Public SDK](#re-public-sdk)
+  - [Re-Public Network and Marketplace](#re-public-network-and-marketplace)
+
 ## What is Re-Public?
 
 The overall purpose of the Re-Public stack is to glue together existing tools and build the last mile of UX for 
@@ -44,7 +50,7 @@ with a VPN, both now and in the future.
 The native apps that run on each of the user's devices belong to the VPN and securely transmit all data generated from 
 the device to the Cloud.
 
-Within the secure Cloud enclave is where developer's apps are installed and run. When they run, they must ask for 
+Within the secure Cloud enclave is where developers' apps are installed and run. When they run, they must ask for 
 permissions to access any of the data they require -- similar to other OS's today.
 
 The apps are **private by default** and the user must approve all external requests for data. That means no telemetry, no 
